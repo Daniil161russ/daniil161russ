@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Daniil Boyko
 - 🤓 I'm a Frontend Web-Developer!
 
-![HTML](https://img.shields.io/badge/-HTML-616362?style=for-the-badge&logo=HTML&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-616362?style=for-the-badge&logo=Html&logoColor=ffffff)
 
 <!--
 **Daniil161russ/daniil161russ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
