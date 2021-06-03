@@ -1,6 +1,7 @@
 ### Hi there 👋  I'm Daniil Boyko
-- 🤓 I'm a Frontend Web-Developer!
-
+- 🤓 I'm a Frontend Web-Developer
+- 👨‍🎓 Upper secondary education
+- 📫 My e-mail: boykodany@yandex.ru
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
