@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm Daniil Boyko
 - 🤓 I'm a Frontend Web-Developer!
 
-![HTML](https://img.shields.io/badge/-HTML-616362?style=for-the-badge&logo=Html&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 <!--
