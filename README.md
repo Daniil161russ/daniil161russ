@@ -11,8 +11,8 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 
 ### Follow me
-![[VK](https://img.shields.io/badge/VK-4680C2.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/daniil161russ)
-![[Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dannil161rus/)
+[![VK](https://img.shields.io/badge/VK-4680C2.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/daniil161russ)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dannil161rus/)
 
 
 
