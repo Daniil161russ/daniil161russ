@@ -2,6 +2,7 @@
 - 🤓 I'm a Frontend Web-Developer!
 
 ![HTML](https://img.shields.io/badge/-HTML-616362?style=for-the-badge&logo=Html&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 <!--
 **Daniil161russ/daniil161russ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
