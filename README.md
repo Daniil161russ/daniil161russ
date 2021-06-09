@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil161russ)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniil161russ&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Follow me
